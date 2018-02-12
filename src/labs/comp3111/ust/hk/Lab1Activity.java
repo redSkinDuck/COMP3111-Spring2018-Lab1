@@ -14,6 +14,8 @@ public class Lab1Activity {
 		}
 		
 		System.out.println(String.format("Sum of the numbers is %d",sum));
+		
+		System.out.println(String.format("Min = 1; Max = 10",sum));
 	}
 
 }
